@@ -1,1 +1,0 @@
-Install Tailwind CSS: npm i tailwindcss @tailwindcss/vite

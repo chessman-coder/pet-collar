@@ -1,11 +1,13 @@
 import Header from "./Components/Header";
-import Home from "./Pages/Home";    
+import Purchase from "./Pages/Purchase";
 
 function App() {
   return (
     <div className="App">
       <Header />
-      <Home />
+      {/* <Home /> */}
+      {/* <Product /> */}
+      <Purchase />
     </div>
   );
 }
